@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Entry note: one fixed joke line for "One Line, One Laugh".
+# The program only validates the line against the contest rules
+# and writes it verbatim to entry.txt - output never changes.
 """Emit the contest entry line into entry.txt.
 
 This is the entry for make.fun's "One Line, One Laugh". The joke is a
